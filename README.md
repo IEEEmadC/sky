@@ -18,7 +18,7 @@ SkyPay will be a secured decentralised banking payment solution that would allow
 
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) 2017 Saransh Mittal
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
